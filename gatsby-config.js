@@ -4,6 +4,9 @@ module.exports = {
     title: "ela-history-project",
   },
   plugins: [
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     "gatsby-plugin-netlify-cms",
     "gatsby-plugin-theme-ui",
     "gatsby-plugin-mdx",
