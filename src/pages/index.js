@@ -8,6 +8,8 @@ import Then from "../images/then.png"
 const IndexPage = () => {
   return (
     <main>
+      <title>Conrad Ela Project</title>
+
       <div class="title">
         <center>
           <h1 class="title-text">ELA Reading and Writing Project</h1>
