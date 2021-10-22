@@ -34,7 +34,7 @@ const IndexPage = () => {
         <div class="center">
           <div class="center-content">
             <h2>A Short Biography</h2>
-              <p>Some people disagree on the shape of the earth, Conrad Kumick is one of those people. He believes it is irl mogus shaped. His life plan consists of becoming a silicon valley billionaire and moving to the Caribbean. He has a strange fondness  for limited edition Ronald Reagan t-shirts and the number 69.</p>
+              <p>Some people disagree on the shape of the earth, Conrad Kumick is one of those people. He believes it is irl mogus shaped. His life plan consists of becoming a silicon valley billionaire and moving to the Caribbean. He has a strange fondness  for limited edition Ronald Reagan t-shirts and funny numbers.</p>
               <p class="small-text">Biography By Alexander Picker</p>
             <h2>Some Quotes I Did</h2>
               <p class="quote">reading is something i kinda like - Conrad Kuzmick</p>
